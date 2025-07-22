@@ -2,7 +2,7 @@
   "name": "bigin-class-hints",
   "displayName": "Bigin Common Class hints",
   "description": "Intelligent class name suggestions extracted from your LESS files in real-time",
-  "version": "0.3.2",
+  "version": "0.3.3",
   "engines": {
     "vscode": "^1.70.0"
   },
@@ -18,7 +18,7 @@
   "publisher": "Bigin-UI-Team",
   "repository": {
     "type": "git",
-    "url": "https://github.com/hithesh-m-20851/Bigin-UI-Team/bigin-class-hints"
+    "url": "https://github.com/hithesh-m-20851/Bigin-UI-Team/tree/main/bigin-class-hints"
   },
   "contributes": {},
   "scripts": {
